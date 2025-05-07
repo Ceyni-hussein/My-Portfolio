@@ -8,7 +8,7 @@ const projects = [
     description: "A modern e-commerce platform built with React and Tailwind CSS.",
     image: "https://via.placeholder.com/400",
     link: "#",
-  },.
+  },
   {
     id: 2,
     title: "Portfolio Website",
