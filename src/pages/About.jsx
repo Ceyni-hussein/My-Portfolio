@@ -32,8 +32,8 @@ const About = () => {
           I love building user-friendly, responsive, and high-performance web applications.
         </p>
         <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-          My goal is to create seamless digital experiences that *enhance user engagement and satisfaction*. 
-          Currently, I'm learning *Back-End Development* to become a *Full-Stack Developer*.
+          My goal is to create seamless digital experiences that enhance user engagement and satisfaction*. 
+          Currently, I'm learning Back-End Development to become a Full-Stack Developer.
         </p>
         <a
           href="/projects"

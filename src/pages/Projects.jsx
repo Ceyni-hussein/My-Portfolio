@@ -8,7 +8,7 @@ const projects = [
     description: "A modern e-commerce platform built with React and Tailwind CSS.",
     image: "https://via.placeholder.com/400",
     link: "#",
-  },
+  },.
   {
     id: 2,
     title: "Portfolio Website",
@@ -23,6 +23,20 @@ const projects = [
     image: "https://via.placeholder.com/400",
     link: "#",
   },
+  {
+    id: 3,
+    title: "Counter",
+    description: "A dynamic counter built using Javascript and tailwindcss",
+    image: "https://via.placeholder.com/400",
+    link: "https://ceyni-hussein.github.io/Counter/",
+  },
+  {
+    id: 3,
+    title: "Lightening Project",
+    description: "A dynamic lightening project built using React and tailwind.css.",
+    image: "https://via.placeholder.com/400",
+    link: "https://ceyni-hussein.github.io/Lightening-Project/",
+  },
 ];
 
 const Projects = () => {
@@ -35,7 +49,7 @@ const Projects = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        My Projects
+        <h1 className="pt-4">My Projects</h1>
       </motion.h2>
 
       {/* Projects Grid */}

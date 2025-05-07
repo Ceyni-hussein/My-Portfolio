@@ -12,7 +12,7 @@ const Contact = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        Contact Me
+        <h1 className="pt-6">Contact Me</h1>
       </motion.h2>
 
       {/* Contact Form */}
