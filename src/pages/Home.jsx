@@ -1,6 +1,6 @@
 
 import { div } from "framer-motion/client";
-import image from "../assets/kalsoon.png"
+import image from "../assets/cayuuni.png"
 import img from "../assets/ceyni.png"
 import { motion } from "framer-motion";
 

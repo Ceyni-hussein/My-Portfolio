@@ -1,6 +1,6 @@
 
 import { motion } from "framer-motion";
-import image from "../assets/kalsoon.png"
+import image from "../assets/cayuuni.png"
 const About = () => {
   return (
     <div className="min-h-screen flex flex-col md:flex-row items-center justify-center bg-gray-900 text-white px-6 md:px-16">
