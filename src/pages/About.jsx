@@ -28,7 +28,7 @@ const About = () => {
       >
         <h2 className="text-4xl md:text-5xl font-bold mb-4 text-blue-400">About Me</h2>
         <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-          I'm a passionate <span className="text-blue-400">Front-End Developer</span> with a strong background in *React, Tailwind CSS, and UI/UX Design*. 
+          I'm a passionate <span className="text-blue-400">-Fullstack Developer</span> with a strong background in *React, Tailwind CSS, and UI/UX Design*. 
           I love building user-friendly, responsive, and high-performance web applications.
         </p>
         <p className="text-lg text-gray-300 mb-6 leading-relaxed">
